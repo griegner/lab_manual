@@ -162,7 +162,7 @@ python
 ### neuroimaging
 
 pre-processing and modeling
-1. [andy's brain book](https://andysbrainbook.readthedocs.io/en/latest/): beginner to advanced techniques
+1. [andrew jahn book](https://andysbrainbook.readthedocs.io/en/latest/): extensive walk through of different neuroimaging topics and software packages
 2. [dartbrains](https://dartbrains.org/intro.html): analyze brain imaging data with python
 
 advanced techniques
@@ -172,4 +172,4 @@ advanced techniques
 video series
 1. [mumfordbrainstats](https://www.youtube.com/channel/UCZ7gF0zm35FwrFpDND6DWeA): various tutorials
 2. [principles of fMRI](https://www.youtube.com/channel/UC_BIby85hZmcItMrkAlc8eA): two-part course
-3. [andy's brain series](https://www.youtube.com/user/Shala5ha5ka/featured): software-specific tutorials
+3. [andy jahn youtube](https://www.youtube.com/user/Shala5ha5ka/featured): processing and modeling steps using the major software packages
