@@ -144,6 +144,7 @@ python
 2. [scipy lecture notes](https://scipy-lectures.org/_downloads/ScipyLectures-simple.pdf): one document to learn numerics, science, and data with python
 3. [python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): essential tools for working with data
 4. [cogs18](https://cogs18.github.io/intro): ucsd programming course
+5. [python cheat sheet](https://miykael.github.io/nipype_tutorial/notebooks/resources_python_cheat_sheet.html): core scientific python refresher
 
 
 ### version control
