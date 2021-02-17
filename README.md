@@ -113,8 +113,7 @@
 - remote: add `XAuthLocation /opt/X11/bin/xauth` to /etc/ssh/sshd_config
 
 4. then restart ssh on local and remote
-- `$ sudo launchctl stop com.openssh.sshd`
-- `$ sudo launchctl start com.openssh.sshd`
+- `$ sudo service ssh restart`
 
 5. to connect: `$ ssh -Y <user@ip-address>`
 
